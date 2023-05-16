@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm edwin nyongesa</h1>
 <h3 align="center">A PASSIONATE FULL-STACK DEVELOPER FROM KENYA SPECIALISING IN LAMP-STACK</h3>
