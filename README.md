@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm edwin nyongesa</h1>
-<h3 align="center">A PASSIONATE FULL-STACK DEVELOPER FROM KENYA SPECIALISING IN LAMP-STACK</h3>
+<h3 align="center">💻 A Software Developer from Kenya proficient in the LAMP stack: PHP, Laravel, MySQL, Perl, and Yii2.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjan001&label=GITHUB%20VISITORS&color=0e75b6&style=plastic" alt="arjan001" /> </p>
 
