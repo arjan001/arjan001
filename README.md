@@ -1,40 +1,24 @@
-<h1 align="center">Hi 👋, I'm Edwin Nyongesa</h1>
-<h3 align="center">A senior Full Stack Developer with experience in the LAMP stack, specializing in modern web applications and robust backend systems.</h3>
+# 💫 About Me:
+🔭 I'm currently working on apersonal Beepost a social media post assistant<br>🌱 I'm currently learning: More about AI/LLM integration and advanced DevOps practices.<br><br>👯 I'm looking to collaborate on: Open-source projects related to web development, especially in the Laravel or Vue.js ecosystems.<br><br>💬 Ask me about: Full-stack development, API design, or optimizing web applications.<br><br>🤔 I'm looking for help with: Exploring opportunities in agentic workflows and advanced cloud technologies.<br><br>⚡ Fun fact: I'm passionate about building modular, maintainable, and scalable codebases.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arjan001&label=PROFILE%20VIEWS&color=0e75b6&style=plastic" alt="arjan001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjan001&title=Stars,Commits&theme=flat" alt="arjan001" /></a> </p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/i__am__arjan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edwin-nyongesa-770658230) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BILGAX007/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bilgax007) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nyongesaedwin018@gmail.com) 
 
-👨‍💻 I specialize in the LAMP stack: PHP, Laravel, and MySQL, with proficiency in architecting and building RESTful APIs.
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Perl](https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-FFAA00?style=for-the-badge&logoColor=%23000000) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=arjan001&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=arjan001&theme=gruvbox_light&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arjan001&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-⚛️ On the frontend, I have strong experience with Vue.js, creating responsive and user-friendly interfaces.
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=arjan001&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-⚙️ My DevOps skills include Git, GitHub Actions, and managing CI/CD pipelines to ensure efficient and reliable deployments.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=arjan001&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-🏢 I have a proven track record of developing and maintaining complex, enterprise-grade systems like ERPs and HRMs.
+---
+[![](https://visitcount.itsvg.in/api?id=arjan001&icon=0&color=0)](https://visitcount.itsvg.in)
 
-📫 How to reach me: nyongesaedwin018@gmail.com
-
-📄 Know more about my work and experience on my resume: 
-
-Linktoyourresume
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="<https://www.php.net>" target="_blank" rel="noreferrer"><img src="<https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg>" alt="php" width="40" height="40"/></a>
-<a href="<https://laravel.com/>" target="_blank" rel="noreferrer"><img src="<https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg>" alt="laravel" width="40" height="40"/></a>
-<a href="<https://www.mysql.com/>" target="_blank" rel="noreferrer"><img src="<https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg>" alt="mysql" width="40" height="40"/></a>
-<a href="<https://vuejs.org/>" target="_blank" rel="noreferrer"><img src="<https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg>" alt="vuejs" width="40" height="40"/></a>
-<a href="<https://tailwindcss.com/>" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arjan001&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=arjan001&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arjan001&theme=highcontrast" alt="GitHub Streak" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
