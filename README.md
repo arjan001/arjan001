@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on apersonal Beepost a social media post assistant<br>🌱 I'm currently learning: More about AI/LLM integration and advanced DevOps practices.<br><br>👯 I'm looking to collaborate on: Open-source projects related to web development, especially in the Laravel or Vue.js ecosystems.<br><br>💬 Ask me about: Full-stack development, API design, or optimizing web applications.<br><br>🤔 I'm looking for help with: Exploring opportunities in agentic workflows and advanced cloud technologies.<br><br>⚡ Fun fact: I'm passionate about building modular, maintainable, and scalable codebases.
+🔭 I'm currently working on a software  Beepost a social media post assistant<br>🌱 I'm currently learning: More about AI/LLM integration and advanced DevOps practices.<br><br>👯 I'm looking to collaborate on: Open-source projects related to web development, especially in the Laravel or Vue.js ecosystems.<br><br>💬 Ask me about: Full-stack development, API design, or optimizing web applications.<br><br>🤔 I'm looking for help with: Exploring opportunities in agentic workflows and advanced cloud technologies.<br><br>⚡ Fun fact: I'm passionate about building modular, maintainable, and scalable codebases.
 
 
 ## 🌐 Socials:
